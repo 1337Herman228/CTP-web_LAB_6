@@ -1,0 +1,66 @@
+<pcBuilds>
+    <build>
+        <name>Gaming Build</name>
+        <cpu>Intel Core i7-9700K</cpu>
+        <gpu>NVIDIA GeForce RTX 2080 Ti</gpu>
+        <ram>16GB DDR4</ram>
+        <storage>1TB SSD</storage>
+    </build>
+    <build>
+        <name>Workstation Build</name>
+        <cpu>AMD Ryzen 9 5950X</cpu>
+        <gpu>NVIDIA Quadro RTX 5000</gpu>
+        <ram>32GB DDR4</ram>
+        <storage>2TB NVMe SSD</storage>
+    </build>
+    <build>
+        <name>Budget Build</name>
+        <cpu>Intel Core i5-10400F</cpu>
+        <gpu>NVIDIA GeForce GTX 1660 Super</gpu>
+        <ram>8GB DDR4</ram>
+        <storage>512GB SSD</storage>
+    </build>
+    <build>
+        <name>Gaming Build</name>
+        <cpu>Intel Core i7-9700K</cpu>
+        <gpu>NVIDIA GeForce RTX 2080 Ti</gpu>
+        <ram>16GB DDR4</ram>
+        <storage>1TB SSD</storage>
+    </build>
+    <build>
+        <name>Gaming Build</name>
+        <cpu>Intel Core i7-9700K</cpu>
+        <gpu>NVIDIA GeForce RTX 2080 Ti</gpu>
+        <ram>16GB DDR4</ram>
+        <storage>1TB SSD</storage>
+    </build>
+
+    <build>
+        <name>Gaming Build</name>
+        <cpu>Intel Core i7-9700K</cpu>
+        <gpu>NVIDIA GeForce RTX 2080 Ti</gpu>
+        <ram>16GB DDR4</ram>
+        <storage>1TB SSD</storage>
+    </build>
+    <build>
+        <name>Workstation Build</name>
+        <cpu>AMD Ryzen 9 5950X</cpu>
+        <gpu>NVIDIA Quadro RTX 5000</gpu>
+        <ram>32GB DDR4</ram>
+        <storage>2TB NVMe SSD</storage>
+    </build>
+    <build>
+        <name>Budget Build</name>
+        <cpu>Intel Core i5-10400F</cpu>
+        <gpu>NVIDIA GeForce GTX 1660 Super</gpu>
+        <ram>8GB DDR4</ram>
+        <storage>512GB SSD</storage>
+    </build>
+    <build>
+        <name>Unique Build</name>
+        <cpu>Intel Pentium 4 580J</cpu>
+        <gpu>NVIDIA GeForce 7950GX2</gpu>
+        <ram>2GB DDR1 Special Edition</ram>
+        <storage>Quantum Bigfoot</storage>
+    </build>
+</pcBuilds>
